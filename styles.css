@@ -1,0 +1,30 @@
+body {
+  background-color: #DA0037;
+}
+
+h1 {
+  color: #F0D9E7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 50px;
+}
+
+h3 {
+  color: #CDF0EA;
+}
+
+h3:hover {
+  color: #FFE194;
+}
+
+.picture {
+  display: block;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  margin: 50px auto;
+}
